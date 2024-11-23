@@ -1,4 +1,4 @@
-nas-tools
+nastool/nas-tools:latest
 reader
 jackett
 qBittorrent
