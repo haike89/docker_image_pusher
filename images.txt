@@ -1,1 +1,1 @@
-yskn/cups:latest
+ydkn/cups:latest
