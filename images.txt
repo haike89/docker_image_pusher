@@ -1,1 +1,1 @@
- rancher/k3s:v1.21.1-k3s1
+onlyoffice/documentserver
