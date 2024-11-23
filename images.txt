@@ -1,15 +1,1 @@
-reader
-jackett
-qBittorrent
-jellyfin
-home-assistant
-mind-map
-watchtower
-deluge
-doku
-ollama
-photoview
-postgresql
-pgadmin4
-memos
-kavita
+yskn/cups:latest
