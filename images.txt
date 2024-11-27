@@ -1,1 +1,2 @@
-ypptec/nascab
+ypptec/nascab:3.5.3-arm64
+ypptec/nascab:3.5.3-x64
