@@ -1,1 +1,1 @@
-nextcloud:stable-fpm-alpine
+phpmyadmin
