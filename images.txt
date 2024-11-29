@@ -1,1 +1,1 @@
-ruby:latest
+debian:rc-buggy
