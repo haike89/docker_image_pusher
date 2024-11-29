@@ -1,1 +1,1 @@
-tomcat:jre21
+nextcloud:stable-fpm-alpine
