@@ -1,1 +1,1 @@
-easytier/easytier:latest
+dreamacro/clash
