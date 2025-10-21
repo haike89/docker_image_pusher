@@ -1,1 +1,1 @@
-lissy93/web-check:latest
+mattermost/mattermost-team-edition:latest
