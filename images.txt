@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+lissy93/web-check:latest
