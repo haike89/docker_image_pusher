@@ -1,1 +1,1 @@
-cups/cups
+asterisk/asterisk:latest
